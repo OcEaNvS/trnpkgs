@@ -1,27 +1,117 @@
 {
-	"sLang" : "french",
-	"code": "fr",
-	"last_updated" : "2021/03/13",
-	"pLang": "python",
-	"max_supported_version" : "3.8",
-	"commentRegex" : "(#.*) ('''(?s)(.*)''') (\"\"\"(?s)(.*)\"\"\")",
-	"mappings": [
-		{
-			"mapping_name": "master",
-			"translations":[
-				{
-					"token" : "if",
-					"translation" : "si"
-				},
-				{
-					"token" : "else",
-					"translation" : "sinon"
-				},
-				{
-					"token" : "elif", 
-					"translation" : "ousi"
-				}
-			]
-		}
-	] 
+  "sLang" : "french",
+  "code" : "fr",
+  "last_updated" : "2021/03/13",
+  "pLang" : "python",
+  "max_supported_version" : "3.8",
+  "commentRegex" : "(#.*) ('''(?s)(.*)''') (\"\"\"(?s)(.*)\"\"\")",
+  "mappings" : [ {
+    "mapping_name" : "master",
+    "translations" : [ {
+      "token" : "False",
+      "translation" : ""
+    }, {
+      "token" : "None",
+      "translation" : ""
+    }, {
+      "token" : "True",
+      "translation" : ""
+    }, {
+      "token" : "and",
+      "translation" : ""
+    }, {
+      "token" : "as",
+      "translation" : ""
+    }, {
+      "token" : "assert",
+      "translation" : ""
+    }, {
+      "token" : "async",
+      "translation" : ""
+    }, {
+      "token" : "await",
+      "translation" : ""
+    }, {
+      "token" : "break",
+      "translation" : ""
+    }, {
+      "token" : "class",
+      "translation" : ""
+    }, {
+      "token" : "continue",
+      "translation" : ""
+    }, {
+      "token" : "def",
+      "translation" : ""
+    }, {
+      "token" : "del",
+      "translation" : ""
+    }, {
+      "token" : "elif",
+      "translation" : ""
+    }, {
+      "token" : "else",
+      "translation" : ""
+    }, {
+      "token" : "except",
+      "translation" : ""
+    }, {
+      "token" : "finally",
+      "translation" : ""
+    }, {
+      "token" : "for",
+      "translation" : ""
+    }, {
+      "token" : "from",
+      "translation" : ""
+    }, {
+      "token" : "global",
+      "translation" : ""
+    }, {
+      "token" : "if",
+      "translation" : ""
+    }, {
+      "token" : "import",
+      "translation" : ""
+    }, {
+      "token" : "in",
+      "translation" : ""
+    }, {
+      "token" : "is",
+      "translation" : ""
+    }, {
+      "token" : "lambda",
+      "translation" : ""
+    }, {
+      "token" : "nonlocal",
+      "translation" : ""
+    }, {
+      "token" : "not",
+      "translation" : ""
+    }, {
+      "token" : "or",
+      "translation" : ""
+    }, {
+      "token" : "pass",
+      "translation" : ""
+    }, {
+      "token" : "raise",
+      "translation" : ""
+    }, {
+      "token" : "return",
+      "translation" : ""
+    }, {
+      "token" : "try",
+      "translation" : ""
+    }, {
+      "token" : "while",
+      "translation" : ""
+    }, {
+      "token" : "with",
+      "translation" : ""
+    }, {
+      "token" : "yield",
+      "translation" : ""
+    } ]
+  } ]
 }
