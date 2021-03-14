@@ -7,111 +7,116 @@
   "commentRegex" : "(#.*) ('''(?s)(.*)''') (\"\"\"(?s)(.*)\"\"\")",
   "mappings" : [ {
     "mapping_name" : "master",
-    "translations" : [ {
-      "token" : "False",
-      "translation" : ""
-    }, {
-      "token" : "None",
-      "translation" : ""
-    }, {
-      "token" : "True",
-      "translation" : ""
-    }, {
-      "token" : "and",
-      "translation" : ""
-    }, {
-      "token" : "as",
-      "translation" : ""
-    }, {
-      "token" : "assert",
-      "translation" : ""
-    }, {
-      "token" : "async",
-      "translation" : ""
-    }, {
-      "token" : "await",
-      "translation" : ""
-    }, {
-      "token" : "break",
-      "translation" : ""
-    }, {
-      "token" : "class",
-      "translation" : ""
-    }, {
-      "token" : "continue",
-      "translation" : ""
-    }, {
-      "token" : "def",
-      "translation" : ""
-    }, {
-      "token" : "del",
-      "translation" : ""
-    }, {
-      "token" : "elif",
-      "translation" : ""
-    }, {
-      "token" : "else",
-      "translation" : ""
-    }, {
-      "token" : "except",
-      "translation" : ""
-    }, {
-      "token" : "finally",
-      "translation" : ""
-    }, {
-      "token" : "for",
-      "translation" : ""
-    }, {
-      "token" : "from",
-      "translation" : ""
-    }, {
-      "token" : "global",
-      "translation" : ""
-    }, {
-      "token" : "if",
-      "translation" : ""
-    }, {
-      "token" : "import",
-      "translation" : ""
-    }, {
-      "token" : "in",
-      "translation" : ""
-    }, {
-      "token" : "is",
-      "translation" : ""
-    }, {
-      "token" : "lambda",
-      "translation" : ""
-    }, {
-      "token" : "nonlocal",
-      "translation" : ""
-    }, {
-      "token" : "not",
-      "translation" : ""
-    }, {
-      "token" : "or",
-      "translation" : ""
-    }, {
-      "token" : "pass",
-      "translation" : ""
-    }, {
-      "token" : "raise",
-      "translation" : ""
-    }, {
-      "token" : "return",
-      "translation" : ""
-    }, {
-      "token" : "try",
-      "translation" : ""
-    }, {
-      "token" : "while",
-      "translation" : ""
-    }, {
-      "token" : "with",
-      "translation" : ""
-    }, {
-      "token" : "yield",
-      "translation" : ""
-    } ]
+    "translations" :
+      [
+				{
+					"token" : "if",
+					"translation" : "si"
+				},
+				{
+					"token" : "else",
+					"translation" : "sinon"
+				},
+				{
+					"token" : "elif",
+					"translation" : "ousi"
+				},
+				{
+					"token" : "import",
+					"translation" : "importer"
+				},
+				{
+					"token" : "in",
+					"translation" : "dans"
+				},
+				{
+					"token" : "from",
+					"translation" : "depuis"
+				},
+				{
+					"token" : "class",
+					"translation" : "classe"
+				},
+				{
+					"token" : "break",
+					"translation" : "couper"
+				},
+				{
+					"token" : "assert",
+					"translation" : "affirmer"
+				},
+				{
+					"token" : "del",
+					"translation" : "supr"
+				},
+				{
+					"token" : "except",
+					"translation" : "excepté"
+				},
+				{
+					"token" : "False",
+					"translation" : "Faux"
+				},
+				{
+					"token" : "finally",
+					"translation" : "finallement"
+				},
+				{
+					"token" : "for",
+					"translation" : "pour"
+				},
+				{
+					"token" : "is",
+					"translation" : "est"
+				},
+				{
+					"token" : "None",
+					"translation" : "Aucun"
+				},
+				{
+					"token" : "nonlocal",
+					"translation" : "nonlocal"
+				},
+				{
+					"token" : "or",
+					"translation" : "ou"
+				},
+				{
+					"token" : "pass",
+					"translation" : "passer"
+				},
+				{
+					"token" : "raise",
+					"translation" : "lever"
+				},
+				{
+					"token" : "True",
+					"translation" : "Vrai"
+				},
+				{
+					"token" : "return",
+					"translation" : "retourner"
+				},
+				{
+					"token" : "try",
+					"translation" : "essayer"
+				},
+				{
+					"token" : "while",
+					"translation" : "tantque"
+				},
+				{
+					"token" : "with",
+					"translation" : "avec"
+				},
+				{
+					"token" : "not",
+					"translation" : "pas"
+				},
+				{
+					"token" : "yield",
+					"translation" : "produire"
+				}
+      ]
   } ]
 }
