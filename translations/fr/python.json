@@ -114,13 +114,17 @@
           "translation" : "asynchro"
         },
         {
+          "token" : "await",
+          "translation" : "expecter"
+        },
+        {
           "token" : "bool",
 					"translation" : "booléen"
         },
         {
           "token" : "float",
           "translation" : "flottante"
-        }
+        },
 				{
 					"token" : "while",
 					"translation" : "tantque"
