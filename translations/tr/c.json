@@ -204,6 +204,10 @@
 				{
 					"token" : "fmod",
 					"translation": "fmodül"
+				},
+				{
+					"token" : "main",
+					"translation" : "ana"
 				}
 			]
 		}
