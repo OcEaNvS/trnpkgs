@@ -1,0 +1,68 @@
+{
+	"sLang" : "japanese",
+	"code": "jp",
+	"last_updated" : "2021/03/13",
+	"pLang": "java",
+	"max_supported_version" : "3.8",
+	"commentRegex" : "(\\\/\\\/.*$)|(\/\\*(?s)(.*)\\*\/)",
+	"mappings": [
+		{
+			"mapping_name": "master",
+			"translations":[
+				{
+					"token" : "if",
+					"translation" : "もし"
+				},
+				{
+					"token" : "else",
+					"translation" : "じゃなければ"
+				},
+				{
+					"token" : "else if", 
+					"translation" : "または"
+				},
+				{
+					"token" : "main",
+					"translation" : "開始"
+				},
+				{
+					"token" : "static",
+					"translation": "静的"
+				
+				},
+				{
+					"token": "System",
+					"translation": "システム"
+				},
+				{
+					"token": "out",
+					"translation": "出力"
+				},
+				{
+					"token": "println",
+					"translation": "書き込む"
+				},
+				{
+					"token": "public",
+					"translation": "公開"
+				},
+				{
+					"token" : "class",
+					"translation" : "設計図"
+				},
+				{
+					"token" : "String",
+					"translation": "文字列"
+				},
+				{
+					"token": "void",
+					"translation": "無"
+				},
+				{
+					"token": "int",
+					"translation": "整数"
+				}
+			]
+		}
+	] 
+}
