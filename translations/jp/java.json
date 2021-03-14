@@ -4,7 +4,7 @@
 	"last_updated" : "2021/03/13",
 	"pLang": "java",
 	"max_supported_version" : "3.8",
-	"commentRegex" : "(\\\/\\\/.*$)|(\/\\*(?s)(.*)\\*\/)",
+	"commentRegex" : "(\\\/\\\/.*$) (\/\\*(?s)(.*)\\*\/)",
 	"mappings": [
 		{
 			"mapping_name": "master",
