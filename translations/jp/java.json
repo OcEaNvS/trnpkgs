@@ -23,7 +23,7 @@
 				},
 				{
 					"token" : "main",
-					"translation" : "本命"
+					"translation" : "開始"
 				},
 				{
 					"token" : "static",
@@ -61,6 +61,182 @@
 				{
 					"token": "int",
 					"translation": "整数"
+				},
+				{
+					"token": "args",
+					"translation": "引数"
+				},
+				{
+					"token": "abstract",
+					"translation": "抽象的"
+				},
+				{
+					"token": "continue",
+					"translation": "続行"
+				},
+				{
+					"token": "for",
+					"translation": "各"
+				},
+				{
+					"token": "continue",
+					"translation": "続行"
+				},
+				{
+					"token": "new",
+					"translation": "新しい"
+				},
+				{
+					"token": "switch",
+					"translation": "切り替え"
+				},
+				{
+					"token": "assert",
+					"translation": "主張"
+				},
+				{
+					"token": "default",
+					"translation": "デフォルト"
+				},
+				{
+					"token": "package",
+					"translation": "包装"
+				},
+				{
+					"token": "synchronized",
+					"translation": "スレッド制限"
+				},
+				{
+					"token": "boolean",
+					"translation": "真偽"
+				},
+				{
+					"token": "do",
+					"translation": "ヤる"
+				},
+				{
+					"token": "private",
+					"translation": "非公開"
+				},
+				{
+					"token": "this",
+					"translation": "物体の引数一覧"
+				},
+				{
+					"token": "break",
+					"translation": "断続"
+				},
+				{
+					"token": "double",
+					"translation": "実数"
+				},
+				{
+					"token": "implements",
+					"translation": "次の様式を導入"
+				},
+				{
+					"token": "protected",
+					"translation": "矯正"
+				},
+				{
+					"token": "throw",
+					"translation": "投げ上げ"
+				},
+				{
+					"token": "byte",
+					"translation": "バイト"
+				},
+				{
+					"token": "import",
+					"translation": "輸入"
+				},
+				{
+					"token": "throws",
+					"translation": "投げ上げるはず"
+				},
+				{
+					"token": "case",
+					"translation": "可能性"
+				},
+				{
+					"token": "enum",
+					"translation": "列挙"
+				},
+				{
+					"token": "instanceof",
+					"translation": ""
+				},
+				{
+					"token": "return",
+					"translation": "返す"
+				},
+				{
+					"token": "transient",
+					"translation": "無シリアライズ"
+				},
+				{
+					"token": "catch",
+					"translation": "受け止める"
+				},
+				{
+					"token": "extends",
+					"translation": "継承"
+				},
+				{
+					"token": "short",
+					"translation": "小整数"
+				},
+				{
+					"token": "try",
+					"translation": "頑張る"
+				},
+				{
+					"token": "char",
+					"translation": "文字"
+				},
+				{
+					"token": "final",
+					"translation": "決定的"
+				},
+				{
+					"token": "interface",
+					"translation": "様式"
+				},
+				{
+					"token": "finally",
+					"translation": "最終的に"
+				},
+				{
+					"token": "long",
+					"translation": "長整数"
+				},
+				{
+					"token": "strictfp",
+					"translation": "真浮数"
+				},
+				{
+					"token": "volatile",
+					"translation": "狂気的"
+				},
+				{
+					"token": "const",
+					"translation": "定数"
+				},
+				{
+					"token": "float",
+					"translation": "浮数"
+				},
+				{
+					"token": "native",
+					"translation": "外部定義"
+				},
+				{
+					"token": "super",
+					"translation": "親に連絡"
+				},
+				{
+					"token": "while",
+					"translation": "条件成り立つ間"
 				}
 			]
 		}

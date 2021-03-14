@@ -11,51 +11,51 @@
       [
 				{
 					"token" : "if",
-					"translation" : "si"
+					"translation" : "wenn"
 				},
 				{
 					"token" : "else",
-					"translation" : "sinon"
+					"translation" : "sonst"
 				},
 				{
 					"token" : "elif",
-					"translation" : "ousi"
+					"translation" : "sowenn"
 				},
 				{
 					"token" : "import",
-					"translation" : "importer"
+					"translation" : "importieren"
 				},
 				{
 					"token" : "in",
-					"translation" : "dans"
+					"translation" : "in"
 				},
 				{
 					"token" : "from",
-					"translation" : "depuis"
+					"translation" : "aus"
 				},
 				{
 					"token" : "class",
-					"translation" : "classe"
+					"translation" : "klasse"
 				},
 				{
 					"token" : "break",
-					"translation" : "couper"
+					"translation" : "brechen"
 				},
         {
           "token" : "and",
-          "translation" : "et"
+          "translation" : "und"
         },
 				{
 					"token" : "assert",
-					"translation" : "affirmer"
+					"translation" : "behaupten"
 				},
 				{
 					"token" : "del",
-					"translation" : "supr"
+					"translation" : "los"
 				},
 				{
 					"token" : "except",
-					"translation" : "excepté"
+					"translation" : "fangen"
 				},
 				{
 					"token" : "False",
@@ -63,15 +63,15 @@
 				},
 				{
 					"token" : "finally",
-					"translation" : "finallement"
+					"translation" : "endlich"
 				},
 				{
 					"token" : "for",
-					"translation" : "pour"
+					"translation" : "fur"
 				},
 				{
 					"token" : "is",
-					"translation" : "est"
+					"translation" : "ist"
 				},
 				{
 					"token" : "None",
@@ -79,31 +79,31 @@
 				},
 				{
 					"token" : "nonlocal",
-					"translation" : "nonlocal"
+					"translation" : "auswartig"
 				},
 				{
 					"token" : "or",
-					"translation" : "ou"
+					"translation" : "oder"
 				},
 				{
 					"token" : "pass",
-					"translation" : "passer"
+					"translation" : "weitergeben"
 				},
 				{
 					"token" : "raise",
-					"translation" : "lever"
+					"translation" : "werfen"
 				},
 				{
 					"token" : "True",
-					"translation" : "Vrai"
+					"translation" : "Wahr"
 				},
 				{
 					"token" : "return",
-					"translation" : "retourner"
+					"translation" : "zuruckgeben"
 				},
 				{
 					"token" : "try",
-					"translation" : "essayer"
+					"translation" : "veruchen"
 				},
         {
           "token" : "as",
@@ -111,7 +111,7 @@
         },
         {
           "token" : "async",
-          "translation" : "asynchro"
+          "translation" : "asynchron"
         },
         {
           "token" : "bool",
@@ -123,23 +123,35 @@
         },
 				{
 					"token" : "while",
-					"translation" : "tantque"
+					"translation" : "solange"
 				},
 				{
 					"token" : "with",
-					"translation" : "avec"
+					"translation" : "mit"
 				},
 				{
 					"token" : "not",
-					"translation" : "pas"
+					"translation" : "nicht"
 				},
 				{
 					"token" : "yield",
-					"translation" : "produire"
+					"translation" : "ergeben"
 				},
         {
           "token" : "print",
           "translation" : "imprimer"
+        },
+				{
+					"token" : "await",
+					"translation" : "erwarten"
+				},
+				{
+					"token" : "global",
+					"translation" : "weltweit"
+				},
+        {
+          "token" : "continue",
+          "translation" : "fortfahren"
         }
       ]
   } ]
