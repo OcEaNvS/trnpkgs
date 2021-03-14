@@ -41,6 +41,10 @@
 					"token" : "break",
 					"translation" : "couper"
 				},
+        {
+          "token" : "and",
+          "translation" : "et"
+        },
 				{
 					"token" : "assert",
 					"translation" : "affirmer"
@@ -101,6 +105,14 @@
 					"token" : "try",
 					"translation" : "essayer"
 				},
+        {
+          "token" : "as",
+          "translation" : "comme"
+        },
+        {
+          "token" : "async",
+          "translation" : "asynchro"
+        },
 				{
 					"token" : "while",
 					"translation" : "tantque"
@@ -116,7 +128,11 @@
 				{
 					"token" : "yield",
 					"translation" : "produire"
-				}
+				},
+        {
+          "token" : "print",
+          "translation" : "imprimer"
+        }
       ]
   } ]
 }
