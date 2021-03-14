@@ -164,7 +164,7 @@
 				},
 				{
 					"token": "instanceof",
-					"translation": ""
+					"translation": "の一種である"
 				},
 				{
 					"token": "return",
