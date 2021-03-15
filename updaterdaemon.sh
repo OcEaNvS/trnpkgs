@@ -1,6 +1,5 @@
-
 while true; do
-	git pull orgin master --force
+	git pull --force
 	
 	sleep 300
 done

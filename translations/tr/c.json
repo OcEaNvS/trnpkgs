@@ -1,0 +1,215 @@
+{
+	"sLang" : "turkish",
+	"code": "tr",
+	"last_updated" : "2021/03/13",
+	"pLang": "c",
+	"max_supported_version" : "3.8",
+	"commentRegex" : "(//.*) (\/\\*(?s)(.*)\\*\/)",
+	"mappings": [
+		{
+			"mapping_name": "master",
+			"translations":[
+				{
+					"token" : "auto",
+					"translation" : "otomatik"
+				},
+				{
+					"token" : "const",
+					"translation" : "sabit"
+				},
+				{
+					"token" : "float", 
+					"translation" : "kesirli"
+				},
+				{
+					"token" : "double",
+					"translation" : "uzunKesirli"
+				},
+				{
+					"token" : "int",
+					"translation": "tamsayı"
+				},
+				{
+					"token": "short",
+					"translation": "kısaTamsayı"
+				},
+				{
+					"token": "struct",
+					"translation": "yapı"
+				},
+				{
+					"token": "unsigned",
+					"translation": "işaretsiz"
+				},
+				{
+					"token": "break",
+					"translation": "durdur"
+				},
+				{
+					"token" : "continue",
+					"translation" : "devamEt"
+				},
+				{
+					"token" : "else",
+					"translation": "yoksa"
+				},
+				{
+					"token": "for",
+					"translation": "için"
+				},
+				{
+					"token": "long",
+					"translation": "uzunTamsayı"
+				},
+                {
+					"token" : "signed",
+					"translation" : "işaretli"
+				},
+				{
+					"token" : "switch",
+					"translation" : "değiştir"
+				},
+				{
+					"token" : "void", 
+					"translation" : "boş"
+				},
+				{
+					"token" : "case",
+					"translation" : "durum"
+				},
+				{
+					"token" : "default",
+					"translation": "varsayılan"
+				},
+				{
+					"token": "enum",
+					"translation": "döküm"
+				},
+				{
+					"token": "goto",
+					"translation": "git"
+				},
+				{
+					"token": "register",
+					"translation": "kayıt"
+				},
+				{
+					"token": "break",
+					"translation": "durdur"
+				},
+				{
+					"token" : "sizeof",
+					"translation" : "boyutu"
+				},
+				{
+					"token" : "typedef",
+					"translation": "sınıfBelirt"
+				},
+				{
+					"token": "volatile",
+					"translation": "istikrarsız"
+				},
+				{
+					"token": "char",
+					"translation": "karakter"
+				},
+                {
+					"token": "do",
+					"translation": "yap"
+				},
+				{
+					"token": "extern",
+					"translation": "harici"
+				},
+				{
+					"token": "if",
+					"translation": "eğer"
+				},
+				{
+					"token" : "return",
+					"translation" : "cevapVer"
+				},
+				{
+					"token" : "static",
+					"translation": "sabit"
+				},
+				{
+					"token": "union",
+					"translation": "birlik"
+				},
+				{
+					"token": "while",
+					"translation": "iken"
+				},
+				{
+					"token": "printf",
+					"translation": "yazf"
+				},
+				{
+					"token": "malloc",
+					"translation": "bellekAyır"
+				},
+				{
+					"token" : "free",
+					"translation" : "serbestBırak"
+				},
+				{
+					"token" : "realloc",
+					"translation": "yeniBellekAyır"
+				},
+				{
+					"token": "calloc",
+					"translation": "başlatBellekAyır"
+				},
+				{
+					"token": "scanf",
+					"translation": "taraf"
+				},
+				{
+					"token": "NULL",
+					"translation": "GEÇERSİZ"
+				},
+				{
+					"token": "exit",
+					"translation": "çık"
+				},
+				{
+					"token" : "true",
+					"translation" : "doğru"
+				},
+				{
+					"token" : "false",
+					"translation": "yanlış"
+				},
+				{
+					"token": "gets",
+					"translation": "als"
+				},
+				{
+					"token": "fgets",
+					"translation": "fals"
+				},
+				{
+					"token": "strtok",
+					"translation": "yazıParçala"
+				},
+				{
+					"token": "sscanf",
+					"translation": "staraf"
+				},
+				{
+					"token" : "powf",
+					"translation" : "üsf"
+				},
+				{
+					"token" : "fmod",
+					"translation": "fmodül"
+				},
+				{
+					"token" : "main",
+					"translation" : "ana"
+				}
+			]
+		}
+	] 
+}

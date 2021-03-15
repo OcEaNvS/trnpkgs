@@ -1,0 +1,48 @@
+{
+    "sLang" : "french",
+    "code" : "fr",
+    "last_updated" : "2021/03/13",
+    "pLang" : "python",
+    "max_supported_version" : "3.8",
+    "commentRegex" : "(#.*) ('''(?s)(.*)''') (\"\"\"(?s)(.*)\"\"\")",
+    "mappings" : [ {
+      "mapping_name" : "master",
+      "translations" :
+        [
+                  {
+                      "token" : "len",
+                      "translation" : "uzunluk"
+                  },
+                  {
+                      "token" : "list",
+                      "translation" : "liste"
+                  },
+                  {
+                      "token" : "itertools",
+                      "translation" : "tekrarlamaAletleri"
+                  },
+                  {
+                      "token" : "product",
+                      "translation" : "çarpım"
+                  },
+                  {
+                      "token" : "chain",
+                      "translation" : "zincir"
+                  },
+                  {
+                      "token" : "combinations",
+                      "translation" : "kombinasyon"
+                  },
+                  {
+                      "token" : "print",
+                      "translation" : "yaz"
+                  },
+                  {
+                      "token" : "import",
+                      "translation" : "al"
+                  }
+                  
+        ]
+    } ]
+  }
+  

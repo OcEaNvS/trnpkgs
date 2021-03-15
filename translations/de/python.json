@@ -1,0 +1,158 @@
+{
+  "sLang" : "french",
+  "code" : "fr",
+  "last_updated" : "2021/03/13",
+  "pLang" : "python",
+  "max_supported_version" : "3.8",
+  "commentRegex" : "(#.*) ('''(?s)(.*)''') (\"\"\"(?s)(.*)\"\"\")",
+  "mappings" : [ {
+    "mapping_name" : "master",
+    "translations" :
+      [
+				{
+					"token" : "if",
+					"translation" : "wenn"
+				},
+				{
+					"token" : "else",
+					"translation" : "sonst"
+				},
+				{
+					"token" : "elif",
+					"translation" : "sowenn"
+				},
+				{
+					"token" : "import",
+					"translation" : "importieren"
+				},
+				{
+					"token" : "in",
+					"translation" : "in"
+				},
+				{
+					"token" : "from",
+					"translation" : "aus"
+				},
+				{
+					"token" : "class",
+					"translation" : "klasse"
+				},
+				{
+					"token" : "break",
+					"translation" : "brechen"
+				},
+        {
+          "token" : "and",
+          "translation" : "und"
+        },
+				{
+					"token" : "assert",
+					"translation" : "behaupten"
+				},
+				{
+					"token" : "del",
+					"translation" : "los"
+				},
+				{
+					"token" : "except",
+					"translation" : "fangen"
+				},
+				{
+					"token" : "False",
+					"translation" : "Faux"
+				},
+				{
+					"token" : "finally",
+					"translation" : "endlich"
+				},
+				{
+					"token" : "for",
+					"translation" : "fur"
+				},
+				{
+					"token" : "is",
+					"translation" : "ist"
+				},
+				{
+					"token" : "None",
+					"translation" : "Aucun"
+				},
+				{
+					"token" : "nonlocal",
+					"translation" : "auswartig"
+				},
+				{
+					"token" : "or",
+					"translation" : "oder"
+				},
+				{
+					"token" : "pass",
+					"translation" : "weitergeben"
+				},
+				{
+					"token" : "raise",
+					"translation" : "werfen"
+				},
+				{
+					"token" : "True",
+					"translation" : "Wahr"
+				},
+				{
+					"token" : "return",
+					"translation" : "zuruckgeben"
+				},
+				{
+					"token" : "try",
+					"translation" : "veruchen"
+				},
+        {
+          "token" : "as",
+          "translation" : "comme"
+        },
+        {
+          "token" : "async",
+          "translation" : "asynchron"
+        },
+        {
+          "token" : "bool",
+					"translation" : "booléen"
+        },
+        {
+          "token" : "float",
+          "translation" : "flottante"
+        },
+				{
+					"token" : "while",
+					"translation" : "solange"
+				},
+				{
+					"token" : "with",
+					"translation" : "mit"
+				},
+				{
+					"token" : "not",
+					"translation" : "nicht"
+				},
+				{
+					"token" : "yield",
+					"translation" : "ergeben"
+				},
+        {
+          "token" : "print",
+          "translation" : "imprimer"
+        },
+				{
+					"token" : "await",
+					"translation" : "erwarten"
+				},
+				{
+					"token" : "global",
+					"translation" : "weltweit"
+				},
+        {
+          "token" : "continue",
+          "translation" : "fortfahren"
+        }
+      ]
+  } ]
+}
